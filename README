@@ -1,0 +1,17 @@
+Olá esse projeto foi feito para teste no processo seletivo da empresa MKS Desenvolvimento de Sistemas e Empreendimentos
+onde foi requisitado a seguinte tarefa:
+
+Você deve construir uma CRUD de um catálogo de filmes. Todos os endpoints dessa CRUD só devem ser consumidos por um usuário autenticado.
+Desenvolva um sistema de autenticação JWT.
+
+Com as seguintes ferramentas requeridas:
+TypeScript
+Nest.js
+TypeORM
+Swagger
+Docker
+Redis
+PostgreSQL
+
+Algumas da ferramentas requistadas eu tinha conhecimento pratico, como o docker e o TypeORM, então preferi estudar um pouco da ferramenta antes de seguir o projeto, também tive alguns compromissos no fim de semana, não conseguindo atribuir o tempo que gostaria para o projeto. Adiantando que não vou conseguir entregar o projeto pronto a tempo do encerramento da data de entrega(dia 15/04).
+Vou continuar o projeto para fins de apredizagem, para não ficar injusto vou deixar uma esse projeto da forma como está e continuar ele em outro portfolio. Espero que gostem.
